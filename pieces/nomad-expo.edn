@@ -1,0 +1,7 @@
+{:id "nomad-expo"
+ :name "Nomad Expo"
+ :url "https://nomadexpo.io/"
+ :logo nil
+ :desc "An exposition of the work of Ditigal Nomads."
+ :creator "hrwd"
+ :promoted? true}

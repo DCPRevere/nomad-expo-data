@@ -1,0 +1,6 @@
+{:id "nomad-list"
+ :name "Nomad List"
+ :url "https://nomadlist.com/"
+ :logo nil
+ :desc "The best cities to live and work remotely for Digital Nomads, based on cost of living, internet speed, weather and other metrics."
+ :creator "levelsio"}

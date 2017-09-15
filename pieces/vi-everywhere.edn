@@ -1,0 +1,6 @@
+{:id "vi-everywhere"
+ :name "Vi Everywhere"
+ :url "https://vieverywhere.com/"
+ :logo nil
+ :desc "Vi Everywhere helps you get vi keybindings everywhere."
+ :creator "hrwd"}
